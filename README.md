@@ -15,6 +15,6 @@ Datasets - Exercises for the Course "Fundamentals of Quantitative Biology"
 [^1]: 3k PBMCs from a Healthy Donor, Chromium Demonstration (v2 Chemistry) by Cell Ranger 1.1.0, 10x Genomics.
 [^2]: Schindelin, J., Arganda-Carreras, I., Frise, E. et al. Fiji: an open-source platform for biological-image analysis. Nat Methods 9, 676–682 (2012). https://doi.org/10.1038/nmeth.2019
 
-**For Stats_04:** Cell labeling by k-means clustering (obrained `via sklearn.cluster.KMeans()`) on the first 50 Principal Components of the PBMC sc-RNA seq dataset.
+**For Stats_04:** Cell labeling by k-means clustering (obtained by `sklearn.cluster.KMeans()`) on the first 50 Principal Components of the PBMC scRNA-seq dataset.
 
 - ``cluster_labels.txt``
