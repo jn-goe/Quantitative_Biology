@@ -10,6 +10,10 @@ Datasets - Exercises for the Course "Fundamentals of Quantitative Biology"
 - ``C1-Rat_Hippocampal_Neuron.txt``
 - ``C2-Rat_Hippocampal_Neuron.txt``
 
+Log-normalized scRNA-seq dataset from Stats_01 after Quality Control:
+
+- ``adata_lognormed_final.csv``
+
 **For Stats_04:** Cell labeling by k-means clustering (obtained by `sklearn.cluster.KMeans()`) on the first 50 Principal Components of the PBMC scRNA-seq dataset.
 
 - ``cluster_labels.txt``
