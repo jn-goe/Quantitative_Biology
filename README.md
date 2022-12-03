@@ -18,6 +18,10 @@ Log-normalized scRNA-seq dataset from Stats_01 after Quality Control:
 
 - ``cluster_labels.txt``
 
+Log-normalized scRNA-seq dataset from Stats_01 after Quality Control:
+
+- ``adata_lognormed_final.csv``
+
 **For Size and Geometry in Biology:** $\sim$ 20,400 reviewed (Swiss-Prot) protein sequences of the human proteome available on [UniProt](https://www.uniprot.org/uniprotkb?query=reviewed%3Atrue+AND+proteome%3Aup000005640)[^3]
 
 - ```uniprot.fasta.gz```
