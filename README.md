@@ -1,7 +1,7 @@
 # Quantitative_Biology
 Datasets - Exercises for the Course "Fundamentals of Quantitative Biology"
 
-**For Stats_01-04:** Filtered and subset scRNA-seq dataset with raw reads based on "3k PBMCs from a Healthy Donor" data available on [10x Genomics](http://cf.10xgenomics.com/samples/cell-exp/1.1.0/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz)[^1]
+**For Stats_01:** Filtered and subset scRNA-seq dataset with raw reads based on "3k PBMCs from a Healthy Donor" data available on [10x Genomics](http://cf.10xgenomics.com/samples/cell-exp/1.1.0/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz)[^1]
 
 - ``adata_raw.csv``
 
@@ -19,6 +19,10 @@ Log-normalized scRNA-seq dataset from Stats_01 after Quality Control:
 - ``cluster_labels.txt``
 
 Log-normalized scRNA-seq dataset from Stats_01 after Quality Control:
+
+- ``adata_lognormed_final.csv``
+
+**For Stats_04:** Log-normalized scRNA-seq dataset from Stats_01 after Quality Control:
 
 - ``adata_lognormed_final.csv``
 
